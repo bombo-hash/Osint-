@@ -23,7 +23,10 @@ A lightweight C++ terminal-based OSINT utility for performing quick lookups on d
 Install curl if it isn't already installed.
 
 ## Clone
-
+```
+git clone https://github.com/bombo-hash/Osint-.git
+cd Osint-
+```
 
 ## Build
 
