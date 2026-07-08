@@ -146,7 +146,7 @@ int main() {
         banner();
         
         if (choice >= 1 && choice <= 6) {
-            cout << MAGENTA << "🔍 INVESTIGATING TARGET: " << target << "\n" << RESET;
+            cout << MAGENTA << "INVESTIGATING TARGET: " << target << "\n" << RESET;
         }
 
         switch (choice) {
